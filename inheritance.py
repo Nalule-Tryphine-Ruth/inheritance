@@ -19,3 +19,9 @@ class Student:
 student1=Student("J22B13/049","Tryphine",20)
 print(student1)
 print(student1.Study())
+
+
+
+
+class NetworkAdmin(Student):
+     
