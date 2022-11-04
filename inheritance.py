@@ -25,7 +25,11 @@ print(student1.Study())
 
 class NetworkAdmin(Student):
        def __init__(self):
-             super().__init__(self)
+#              super().__init__(self)
+                
+                
+                
+                
                 
             
 
